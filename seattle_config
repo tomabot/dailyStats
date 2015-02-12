@@ -1,0 +1,9 @@
+
+{
+  "enable":true,
+  "recipients":{
+      "tom disable":"tomabot@gmail.com",
+      "dave disable":"snok@snabbaflabba.com"
+  }
+}
+

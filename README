@@ -1,0 +1,6 @@
+
+alarm_ex.rb is a ruby script that gathers up run-time statistics from the instruments, formats
+    a status message, and sends it to the recipients in the seattle_config file. It is configured
+    to run as a cron job
+
+seattle_config is json file the specifies who will receive the status message
